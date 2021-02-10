@@ -1,1 +1,1 @@
-komponentbaseret
+# SB4-KOM
